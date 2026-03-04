@@ -63,4 +63,4 @@ Overfitting
 
 Variance
 
-Improves accurac
+Improves accuracy
